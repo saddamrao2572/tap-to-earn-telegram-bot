@@ -33,6 +33,7 @@ This guide is perfect for beginners who want to build a Telegram mini app and la
 ⏳ 06:00 – Conclusion + How to Get Help + Call to Action
 
 📌 Get the Code & Support
+https://youtu.be/CWpGZvU-F8M
 https://digita72.net
 For shopify sep app development?
 contact us
